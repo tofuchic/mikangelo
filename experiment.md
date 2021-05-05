@@ -12,7 +12,7 @@
 
 - 背景は extract する
 - カメラ（M5StickV）と被写体の距離は一定
-- ![実験環境](./image/setup.jpg)
+- <img src="https://raw.githubusercontent.com/tofuchic/mikangelo/main/image/setup.jpg" width="320px">
 
 ## 実験の観点
 
@@ -34,7 +34,7 @@
   1. スターライトネーブル/starlight
   1. なったん/nattan
 
-- ![柑味の蜜柑](./image/kanmi.jpg)
+- <img src="https://raw.githubusercontent.com/tofuchic/mikangelo/main/image/kanmi.jpg" width="320px">
 
 # データセット
 
@@ -80,9 +80,7 @@
   | top |    ○    | △（lemonade） |   ○    |    ○    |    ○     |     ○     |   ○    |
 
 - 学習後、テスト用みかんの「弓削ひょう柑/yuge」をカメラで捉えたときの動画
-  -  <video width="320" height="240" controls>
-      <source src="./image/video1.mp4" type="video/mp4">
-     </video>
+  - <img src="https://raw.githubusercontent.com/tofuchic/mikangelo/main/image/video.gif" width="320px">
 
 ## 実験 2 - 上面、側面、下面を学習させた場合
 
